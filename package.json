@@ -1,0 +1,10 @@
+{
+  "name": "type-sure",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.d.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Joshua Coussard <joshua@coussard.com",
+  "license": "GPL-3.0-or-later"
+}
